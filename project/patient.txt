@@ -1,0 +1,15 @@
+PatientID: 001
+Name: Charlie Puth
+Sequence: TERTAXIN1TP53KRASRHOAPIK3CAARID1A
+PatientID: 002
+Name: Ed Sheeran
+Sequence: CTNNB1APCWMDLSKDJGDSDKFJSLDK
+PatientID: 003
+Name: Ariana Grande
+Sequence: MELWXJEIWLDMKDKFGEMDLSLWMEK
+PatientID: 004
+Name: Ed Sheeran
+Sequence: CDH1APCSMAD4STK11
+PatientID: 005
+Name: Elvis Presley
+Sequence: MLH1EGFRRHOACDH1APC

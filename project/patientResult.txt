@@ -1,0 +1,32 @@
+ID: 001
+Name: Charlie Puth
+Type: Liver Cancer
+예후: 매우 나쁨
+증식 속도: 빠름
+조기 발병 가능성: 중간
+
+ID: 002
+Name: Ed Sheeran
+Type: Colon Cancer
+예후: 좋음
+증식 속도: 빠름
+조기 발병 가능성: 낮음
+
+ID: 003
+Name: Ariana Grande
+Type: 특별한 이상이 없습니다.
+
+ID: 004
+Name: Ed Sheeran
+Type: Stomach Cancer
+예후: 나쁨
+증식 속도: 느림
+조기 발병 가능성: 중간
+
+ID: 005
+Name: Elvis Presley
+Type: Stomach Cancer
+예후: 나쁨
+증식 속도: 빠름
+조기 발병 가능성: 중간
+
